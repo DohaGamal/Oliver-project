@@ -55,7 +55,7 @@
     display: block;
   }
   .box-photo {
-    padding: 0.5em 0em 0em 0em;
+    padding: 0.5em 0em 2em 7em;
     width: 50%;
   }
   .box-need {
@@ -216,7 +216,7 @@
     display: block;
   }
   .box-photo {
-    padding: 0.5em 0em 0em 15em;
+    padding: 0.5em 0em 2em 7em;
     width: 50%;
   }
   .box-need {
